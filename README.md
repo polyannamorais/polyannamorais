@@ -1,4 +1,4 @@
-## Olá! Eu sou a Polyanna, estudante de ADS na Universidade Positivo.
+### Olá! Eu sou a Polyanna, estudante de ADS na Universidade Positivo.
 #
 <div align="center">
   <a href="https://github.com/polyannamorais">
